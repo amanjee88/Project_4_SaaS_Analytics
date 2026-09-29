@@ -241,7 +241,7 @@ Project_4_SaaS_Analytics/
 │       ├── paying_customer_rate_by_tenure.png
 │       ├── average_revenue_by_tenure.png
 │       └── revenue_per_paying_customer_by_plan.png
-│
+├── .gitattributes
 ├── .gitignore
 ├── README.md
 └── requirements.txt
@@ -253,6 +253,7 @@ Project_4_SaaS_Analytics/
 - **`data/`** — Source CSV datasets used in the analysis.
 - **`notebooks/`** — Jupyter Notebook containing the complete analysis workflow.
 - **`outputs/figures/`** — Static PNG visualizations and the interactive Plotly HTML visualization generated during the analysis.
+- **`.gitattributes`** — Configures GitHub repository language detection to exclude generated HTML visualization files from language statistics.
 - **`.gitignore`** — Specifies local and temporary files that should not be committed to Git.
 - **`README.md`** — Project documentation, methodology, findings, visualizations, and limitations.
 - **`requirements.txt`** — Python package versions required to reproduce the analysis environment.
