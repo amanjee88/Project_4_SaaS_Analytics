@@ -204,7 +204,7 @@ The project follows a structured end-to-end data analytics workflow:
 ## Project Structure
 
 ```text
-Project_4_SaaS_Analytics/
+SaaS-Customer-Retention-Churn-Revenue-Analytics/
 │
 ├── .venv/              # Local Python environment; excluded from Git
 │
